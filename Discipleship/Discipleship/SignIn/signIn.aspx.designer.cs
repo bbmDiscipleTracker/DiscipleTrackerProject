@@ -40,13 +40,13 @@ namespace Discipleship.SignIn {
         protected global::System.Web.UI.WebControls.Button btnSignIn;
         
         /// <summary>
-        /// lnkForgotPassword control.
+        /// LinkButton1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lnkForgotPassword;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
         
         /// <summary>
         /// lblMessage control.
